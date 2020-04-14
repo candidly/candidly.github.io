@@ -1,9 +1,9 @@
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-seo-tag
-  - github-pages-health-check
-  - github-pages
+#  - github-pages-health-check
+#  - github-pages
   
 theme: minima
 
