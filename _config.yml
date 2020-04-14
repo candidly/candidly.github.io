@@ -1,3 +1,12 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - github-pages-health-check
+  - github-pages
+  
+theme: minima
+
 collections:
   authors:
     output: true
@@ -17,10 +26,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-      
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - github-pages-health-check
-  - github-pages
